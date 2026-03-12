@@ -4,6 +4,13 @@ import SingleProject from './SingleProject'
 
 const projects = [
     {
+        name: "Client's Portfolio",
+        year: "2026",
+        align: "left",
+        image: "./images/pp.jpeg",
+        link: "https://abbie-portfolio.vercel.app/",
+    },
+    {
         name: "Ambulance App",
         year: "2024",
         align: "Right",  
