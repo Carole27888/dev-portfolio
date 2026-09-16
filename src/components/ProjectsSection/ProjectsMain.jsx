@@ -61,16 +61,22 @@ const projects = [
     {
         name: "Real Estate",
         year: "2025",
-        align: "right",  
+        align: "right",
         image: "./images/realestate.jpeg",
         link: "https://heaven-home-2.vercel.app/",
     },
-    
-    
-    
-    
-        
-    
+    {
+        name: "Workfola (ERP System)",
+        year: "2026",
+        align: "left",
+        image: "./images/webbsite.jpeg",
+        link: "https://workfola.com",
+    },
+
+
+
+
+
 ]
 
 const ProjectsMain = () => {
