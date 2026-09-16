@@ -4,6 +4,13 @@ import SingleProject from './SingleProject'
 
 const projects = [
     {
+        name: "Workfola (ERP System)",
+        year: "2026",
+        align: "left",
+        image: "./images/workfola.png",
+        link: "https://workfola.com",
+    },
+    {
         name: "Client's Portfolio",
         year: "2026",
         align: "left",
@@ -65,17 +72,6 @@ const projects = [
         image: "./images/realestate.jpeg",
         link: "https://heaven-home-2.vercel.app/",
     },
-    {
-        name: "Workfola (ERP System)",
-        year: "2026",
-        align: "left",
-        image: "./images/webbsite.jpeg",
-        link: "https://workfola.com",
-    },
-
-
-
-
 
 ]
 
