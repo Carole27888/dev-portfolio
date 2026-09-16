@@ -9,6 +9,12 @@ import { FaGithub } from "react-icons/fa";
 import { FaFigma } from "react-icons/fa";
 import { FaPython } from "react-icons/fa";
 import { FaFlask } from "react-icons/fa";
+import { FaWordpress } from "react-icons/fa";
+import { FaLinux } from "react-icons/fa";
+import { FaServer } from "react-icons/fa";
+import { SiElementor } from "react-icons/si";
+import { SiWoocommerce } from "react-icons/si";
+import { MdDns } from "react-icons/md";
 import SingleSkills from './SingleSkills';
 
 
@@ -52,6 +58,30 @@ const skills = [
   {
     skill: "Flask",
     icon: FaFlask,
+  },
+  {
+    skill: "WordPress",
+    icon: FaWordpress,
+  },
+  {
+    skill: "Elementor",
+    icon: SiElementor,
+  },
+  {
+    skill: "WooCommerce",
+    icon: SiWoocommerce,
+  },
+  {
+    skill: "Linux",
+    icon: FaLinux,
+  },
+  {
+    skill: "Server Admin",
+    icon: FaServer,
+  },
+  {
+    skill: "DNS & Domains",
+    icon: MdDns,
   },
 ];
 

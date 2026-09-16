@@ -12,7 +12,9 @@ const experiences = [
     Responsibilities: [
       'Build enterprise full-stack systems with Next.js, TypeScript, Node.js, Express, and MongoDB',
       'Architect auth, validation, routing, and role-based logic for complex workflows',
-      'Implement PDF engines, multi-step approvals, and automation tooling'
+      'Implement PDF engines, multi-step approvals, and automation tooling',
+      'Built and maintained WordPress sites for a client project using Elementor/Elementor Pro, including WooCommerce setup and plugin configuration',
+      'Managed a Linux server for a professional engagement, handling deployments, SSH access, and DNS/domain administration'
     ]
   },
   {
